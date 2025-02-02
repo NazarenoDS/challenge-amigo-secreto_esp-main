@@ -11,7 +11,7 @@ _Sumando, La actualizacion de la lista de amigos y el borrado de los amigos ya s
 
 _(En las consignas pedian que lo suba a github pages, como ya conocia esta herramienta, decidi aprender una nueva, por esto mismo, lo subi a Vercel)_
 
-[Web - Amigo Secreto]()
+[Web - Amigo Secreto](https://challenge-amigo-secreto-esp-main-two.vercel.app/)
 
 ## Comencemos 🚀
 
